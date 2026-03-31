@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { AreaChart, Area, XAxis, Tooltip, ResponsiveContainer, CartesianGrid, BarChart, Bar } from 'recharts';
 import { 
   Activity, AlertTriangle, Clock, MessageSquare, LayoutDashboard, TrendingUp, 
-  Lightbulb, CheckCircle2, User, Users, ShieldPlus, ChevronLeft, CalendarClock, BellRing
+  Lightbulb, CheckCircle2, User, Users, ChevronLeft, CalendarClock
 } from 'lucide-react';
 import './App.css';
 
